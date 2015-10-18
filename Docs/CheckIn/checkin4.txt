@@ -1,0 +1,1 @@
+checkin_info 16-2 1 14-5 1 12-5 2 15-4 1 13-4 1 type checkin business_id HLQGo3EaYVvAv22bONGkIw

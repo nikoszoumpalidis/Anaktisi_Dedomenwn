@@ -1,0 +1,1 @@
+checkin_info 13-5 1 17-6 1 15-1 1 20-0 1 12-3 1 19-2 1 11-5 2 10-0 1 11-1 2 11-0 1 17-1 1 13-4 2 12-6 1 10-1 1 12-5 1 10-5 2 13-2 1 type checkin business_id D0IB17N66FiyYDCzTlAI4A

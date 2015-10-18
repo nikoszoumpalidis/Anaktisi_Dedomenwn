@@ -1,0 +1,1 @@
+business_id o3ehs4ZEdsizbJyB9_j7uQ full_address 6938 E 1st St Scottsdale AZ 85251 open true categories Art Schools Specialty Schools Shopping Jewelry Accessories Fashion Education city Scottsdale review_count 14 name Jam neighborhoods  longitude -1119312992 state AZ stars 5.0 latitude 33492195000000002 type business 

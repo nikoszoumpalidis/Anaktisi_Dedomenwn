@@ -1,0 +1,1 @@
+business_id FrBCYtCS_jydDjg1KsIgWQ full_address 1850 W Camelback Rd Ste 1 Phoenix AZ 85015 open true categories  Music & DVDs Books Mags Music & Video Vinyl Records Shopping  city Phoenix review_count 21 name Zia Record Exchange neighborhoods    longitude -112.0987501 state AZ stars 3.5 latitude 33.509658199999997 type business

@@ -1,0 +1,1 @@
+business_id JxVGJ9Nly2FFIs_WpJvkug full_address 14418 N Scottsdale Rd Suite 181 Scottsdale AZ 85254 open true categories Pizza Restaurants city Scottsdale review_count 55 name Sauce neighborhoods  longitude -111926272 state AZ stars 4.0 latitude 33617458900000003 type business

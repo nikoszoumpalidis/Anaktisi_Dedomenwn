@@ -1,0 +1,1 @@
+business_id 9iLiMm3Z9nepRDu1AhgEoQ full_address 3535 W Chandler Blvd\nChandler AZ 85226 open true categories Hotels & Travel Event Planning & Services Hotels city Chandler review_count 7 name Windmill Inns & Suites neighborhoods  longitude -1119032256 state AZ stars 4.5 latitude 33305426599999997 type business

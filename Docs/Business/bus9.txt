@@ -1,0 +1,1 @@
+business_id  qarobAbxGSHI7ygf1f7a_Q full_address  891 E Baseline Rd Suite 102 Gilbert AZ 85233 open  true categories  Sandwiches Restaurants city  Gilbert review_count  10 name  Jersey Mike's Subs neighborhoods   longitude  -1118120071 state  AZ stars  3.5 latitude  33378838500000001 type  business

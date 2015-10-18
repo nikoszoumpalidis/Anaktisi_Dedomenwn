@@ -1,0 +1,1 @@
+business_id  acaBJcFEKPmmSDIO6c-ZGQ full_address  2075 N Pebble Creek Pkwy Goodyear AZ 85395 open  true categories  Food Grocery city  Goodyear review_count  3 name  Basha's neighborhoods   longitude  -11239202179999999 state  AZ stars  3.0 latitude  33468814999999999 type  business

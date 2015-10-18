@@ -1,0 +1,1 @@
+   business_id     usAsSV36QmUej8--yvN-dg   full_address     845 W Southern Ave Phoenix AZ 85041   open    true  categories      Food   Grocery ]  city     Phoenix   review_count    5  name     Food City   neighborhoods       longitude    -112.0853773  state     AZ   stars  3.5  latitude    33.392209899999997  type     business  

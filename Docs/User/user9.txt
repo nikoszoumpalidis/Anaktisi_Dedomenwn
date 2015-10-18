@@ -1,0 +1,1 @@
+ votes    funny   5   useful   24   cool   9    user_id    myXq7PFXkD_yfXT580SXMw    name    Shawn    average_stars 3.8999999999999999   review_count   10   type    user  

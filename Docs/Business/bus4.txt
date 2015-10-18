@@ -1,0 +1,1 @@
+business_id PzOqRohWw7F7YEPBz6AubA   full_address 6520 W Happy Valley Rd Ste 101 Glendale Az   AZ 85310   open true   categories   Food   Bagels   Delis   Restaurants     city Glendale Az   review_count 14   name Hot Bagels & Deli   neighborhoods        longitude -112.200264   state AZ   stars 3.5   latitude 33.712797000000002   type business

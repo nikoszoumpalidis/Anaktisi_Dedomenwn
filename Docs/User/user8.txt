@@ -1,0 +1,1 @@
+ votes    funny   0   useful   3   cool   2    user_id    mn6F-eP5WU37b-iLTop2mQ    name    Denis    average_stars 4.5   review_count   4   type    user  

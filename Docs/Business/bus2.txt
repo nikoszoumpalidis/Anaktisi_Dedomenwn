@@ -1,0 +1,1 @@
+business_id 3f_lyB6vFK48ukH6ScvLHg full_address 1134 N Central Ave Phoenix AZ 85004  open true categories [] city Phoenix review_count 4 name Valley Permaculture Alliance neighborhoods [] longitude -112.07393329999999 state AZ stars 5.0 latitude 33.460525799999999 type  business

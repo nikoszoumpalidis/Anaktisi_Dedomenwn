@@ -1,0 +1,1 @@
+business_id dsfsd W 0FNFSzCFP_rGUoJx8W7tJg full_address Wood Dr Phoenix AZ 85029 open true categories Sporting Goods Bikes Shopping city Phoenix review_count 5 name Bike Doctor neighborhoods longitude -112.10593299999999 state AZ stars 5.0 latitude 33.604053999999998 type business

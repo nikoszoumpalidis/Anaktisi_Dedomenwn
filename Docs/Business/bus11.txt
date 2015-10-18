@@ -1,0 +1,1 @@
+business_id gA5CuBxF-0CnOpGnryWJdQ full_address 519 W Thomas Rd Phoenix AZ 85013 open true categories  Mexican Restaurants  city Phoenix review_count 5 name La Paloma Mexican Food neighborhoods    longitude -1120813612 state AZ stars 4.0 latitude 33480105000000002 type business
